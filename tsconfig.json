@@ -1,0 +1,24 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist",
+        "moduleResolution": "node",
+        "target": "ES5",
+        "jsx": "react-jsx",
+        "sourceMap": true,
+        "skipLibCheck": true,
+        "esModuleInterop": true,
+        "forceConsistentCasingInFileNames": true,
+        "allowSyntheticDefaultImports": true,
+        "experimentalDecorators": true,
+        "lib": ["DOM", "ESNext"],
+        "typeRoots": [
+            "./node_modules/@types", "./src/types"
+        ],
+        
+    },
+    "exclude": [
+        "demo/dist",
+        "dist",
+        "node_modules"
+    ]
+}
