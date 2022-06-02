@@ -1,6 +1,6 @@
 {
   "name": "@ohaidukova/react-tree-list",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "react-tree-list is a lightweight react library for big lists and big tree lists",
   "main": "dist/index.js",
   "author": "Olga Haidukova",
