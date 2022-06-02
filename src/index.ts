@@ -1,5 +1,6 @@
-export {
-    List,
+export { List } from './List';
+
+export type {
     TDataBase,
     IRowRenderer,
     IListProps,
